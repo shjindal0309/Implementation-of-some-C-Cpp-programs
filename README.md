@@ -1,4 +1,4 @@
-# Implementation-of-some-C-C-programs
+# Implementation of some C-Cpp programs
 
 This repo contains some of the C/C++ programs that I have implementated during my B.Tech CSE course at IIT Guwahati
 
